@@ -41,7 +41,7 @@
         <name>WorkflowFieldUpdate</name>
     </types>
     <types>
-        <members>UpdateAnnualRevenueInAccount-1</members>
+        <members>UpdateAnnualRevenueInAccount</members>
         <name>Flow</name>
     </types>
     <types>
