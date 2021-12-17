@@ -40,5 +40,13 @@
         <members>*</members>
         <name>WorkflowFieldUpdate</name>
     </types>
+    <types>
+        <members>UpdateAnnualRevenueInAccount-1</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>Account.Rating_Field_Mandatory</members>
+        <name>ValidationRule</name>
+    </types>   
     <version>52.0</version>
 </Package>
