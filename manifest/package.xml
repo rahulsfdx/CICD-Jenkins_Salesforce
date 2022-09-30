@@ -32,5 +32,21 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>Workflow</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>WorkflowFieldUpdate</name>
+    </types>
+    <types>
+        <members>UpdateAnnualRevenueInAccount</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>Account.Rating_Field_Mandatory</members>
+        <name>ValidationRule</name>
+    </types>   
     <version>52.0</version>
 </Package>
